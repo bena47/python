@@ -3,7 +3,7 @@ my_string = "Hello, World!"
 # Accessing characters using positive indexing
 first_char = my_string[0]
 second_char = my_string[1]
-last_char = my_string[12]
+last_char = my_string[11]
 
 print("Positive indexing:")
 print("First character:", first_char)
